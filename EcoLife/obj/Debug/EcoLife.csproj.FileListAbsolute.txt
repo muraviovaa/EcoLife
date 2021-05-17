@@ -1,0 +1,15 @@
+C:\Users\NAT\source\repos\EcoLife\EcoLife\bin\Debug\EcoLife.exe.config
+C:\Users\NAT\source\repos\EcoLife\EcoLife\bin\Debug\EcoLife.exe
+C:\Users\NAT\source\repos\EcoLife\EcoLife\bin\Debug\EcoLife.pdb
+C:\Users\NAT\source\repos\EcoLife\EcoLife\bin\Debug\MaterialSkin.dll
+C:\Users\NAT\source\repos\EcoLife\EcoLife\obj\Debug\EcoLife.csprojAssemblyReference.cache
+C:\Users\NAT\source\repos\EcoLife\EcoLife\obj\Debug\EcoLife.Properties.Resources.resources
+C:\Users\NAT\source\repos\EcoLife\EcoLife\obj\Debug\EcoLife.csproj.GenerateResource.cache
+C:\Users\NAT\source\repos\EcoLife\EcoLife\obj\Debug\EcoLife.csproj.CoreCompileInputs.cache
+C:\Users\NAT\source\repos\EcoLife\EcoLife\obj\Debug\EcoLife.csproj.CopyComplete
+C:\Users\NAT\source\repos\EcoLife\EcoLife\obj\Debug\EcoLife.exe
+C:\Users\NAT\source\repos\EcoLife\EcoLife\obj\Debug\EcoLife.pdb
+C:\Users\NAT\source\repos\EcoLife\EcoLife\obj\Debug\EcoLife.Form1.resources
+C:\Users\NAT\source\repos\EcoLife\EcoLife\obj\Debug\EcoLife.Form2.resources
+C:\Users\NAT\source\repos\EcoLife\EcoLife\obj\Debug\EcoLife.Form3.resources
+C:\Users\NAT\source\repos\EcoLife\EcoLife\obj\Debug\EcoLife.Form4.resources
